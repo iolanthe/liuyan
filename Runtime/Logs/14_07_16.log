@@ -1,0 +1,2777 @@
+[ 2014-07-16T01:27:05+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:27:06+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:27:06+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:27:07+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:27:07+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:27:07+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.008000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.005001s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:27:08+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-07-16T01:27:08+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:27:09+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.007000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:27:09+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-07-16T01:27:10+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:28:05+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:28:07+08:00 ] 127.0.0.1 /liuyan/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:37+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('dfs','2014-07-16 01:29:36 AM') [ RunTime:0.030001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:38+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:29:39+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('dfsf','2014-07-16 01:29:39 AM') [ RunTime:0.030002s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-07-16T01:29:40+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:42+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('hshsgh','2014-07-16 01:29:41 AM') [ RunTime:0.016000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:43+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:44+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('shgh','2014-07-16 01:29:44 AM') [ RunTime:0.008001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:45+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-07-16T01:29:49+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\ndgs','2014-07-16 01:29:48 AM') [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:50+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:51+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('dga','2014-07-16 01:29:51 AM') [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:52+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:53+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('gf','2014-07-16 01:29:53 AM') [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:29:54+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:56+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('hghs','2014-07-16 01:29:55 AM') [ RunTime:0.013000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:29:57+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:29:58+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('gdfg','2014-07-16 01:29:58 AM') [ RunTime:0.023001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:00+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:09+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:10+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:11+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:12+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-07-16T01:30:13+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:13+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:14+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:15+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:17+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('er','2014-07-16 01:30:17 AM') [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:18+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:20+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('ter','2014-07-16 01:30:20 AM') [ RunTime:0.026002s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-07-16T01:30:21+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:23+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('tret','2014-07-16 01:30:23 AM') [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:30:24+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:31:04+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 10,10   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:31:33+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:31:34+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.008001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:31:35+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:31:35+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:31:36+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:31:37+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.008001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:31:37+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:31:49+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('rw','2014-07-16 01:31:49 AM') [ RunTime:0.019001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:31:50+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:31:53+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('9','2014-07-16 01:31:53 AM') [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:31:55+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY mid LIMIT 5,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:32:28+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.094006s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:32:29+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:32:30+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:32:31+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:32:32+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.001000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:32:32+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.001000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:32:33+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.001000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:32:33+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:32:34+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5   [ RunTime:0.000000s ]
+ERR: 1054:Unknown column 'create_time' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `liuyan` ORDER BY create_time LIMIT 5,5  
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-07-16T01:32:56+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 5,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2014-07-16T01:33:11+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.021001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('x','2014-07-16 01:33:11 AM') [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:33:13+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 5,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:40:42+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:40:43+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:40:44+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:40:45+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:40:49+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.008000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001001s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:40:50+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:40:51+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.002000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-07-16T01:42:08+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('fdsfd','2014-07-16 01:42:08 AM') [ RunTime:0.014001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:09+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:42:11+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('fsd','2014-07-16 01:42:11 AM') [ RunTime:0.011000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-07-16T01:42:12+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:42:13+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('jdh','2014-07-16 01:42:13 AM') [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:14+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:15+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('djh','2014-07-16 01:42:15 AM') [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001001s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:16+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:18+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('ncvnb','2014-07-16 01:42:18 AM') [ RunTime:0.012001s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:42:19+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.002000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:20+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('dhgf','2014-07-16 01:42:20 AM') [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:42:21+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-07-16T01:42:22+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.007000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('dhgfh','2014-07-16 01:42:22 AM') [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:42:23+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:48+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('fsdf','2014-07-16 01:42:48 AM') [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:49+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:51+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006000s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('ad','2014-07-16 01:42:51 AM') [ RunTime:0.031002s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T01:42:52+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.005000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:43:46+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.075005s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES ('fsdc','2014-07-16 01:43:46 AM') [ RunTime:0.011000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-07-16T01:43:47+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.006001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2014-07-16T01:51:57+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: page D:\wamp\www\liuyan\Lib\Action\IndexAction.class.php 第 22 行.
+
+[ 2014-07-16T01:55:05+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.004000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.001000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T14:30:10+08:00 ] 127.0.0.1 /liuyan/index.php/Index/board.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.015001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003001s ]
+SQL: INSERT INTO `liuyan` (`message`,`cutime`) VALUES (' vc','2014-07-16 14:30:09 PM') [ RunTime:0.128008s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.129008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129008s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.019001s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.011000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.033001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-07-16T14:30:11+08:00 ] 127.0.0.1 /liuyan/index.php/Index/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `liuyan` [ RunTime:0.003000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `liuyan` LIMIT 1   [ RunTime:0.000000s ]
+SQL: SELECT * FROM `liuyan` ORDER BY cutime LIMIT 0,5   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\wamp\www\liuyan\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+NOTIC: [2] Illegal string offset 'message' D:\wamp\www\liuyan\Runtime\Cache\edb7d9f29e8c565c8c44d6752b10509c.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+

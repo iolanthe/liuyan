@@ -1,0 +1,36 @@
+body {
+	background-color: #9999FF;
+	text-align:center;
+}
+
+body, td, th {
+	color: #330033;
+}
+
+h1 {
+	color: #333333;
+}
+
+h2 {
+	color: #666699;
+}
+
+h3 {
+	color: #993399;
+}
+
+h6 {
+	color: #333366;
+}
+
+a {
+	color: #CC3333;
+}
+
+
+.mes01{
+  position: absolute;
+  left: 590px;
+  top:70px;
+
+}

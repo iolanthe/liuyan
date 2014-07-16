@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<import type='css' file="liuyanban" basepath="/liuyan/Public/css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>留言板</title>
+
+</head>
+
+<body>
+<h1>留言板</h1>
+
+<form action="{:U('Index/board')}" method="post">
+<div  class="mes01">
+<p>
+  <textarea name="textarea" id="textarea"></textarea>
+ <!--  <?php $time=date('Y-m-d');?> -->
+</p>
+<p>
+  <input type="submit" name="Submit" value="提交" id="Submit" />
+</p>
+<!-- <volist name = "liuyans" id="liuyan">
+    <volist name = "liuyan" id="liuyan1">
+        
+           <tr>
+               <td>
+           
+             {$liuyan1['message']}
+           
+               </td>
+
+           </tr>
+        
+     </volist>
+</volist> -->
+<volist name = "liuyans" id="liuyan1">
+<p>{$liuyan1['cutime']}</p>
+<p>{$liuyan1['message']}</p>
+
+</volist>
+</div>
+</body>
+</html>
